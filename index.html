@@ -1,5 +1,5 @@
 ---
-title: 首页
+title: 首页2016
 layout: page
 ---
 
@@ -12,7 +12,7 @@ layout: page
   {% endif %}
   <li class="listing-item">
     <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-    <a href="view-source:http://hiralph.github.io/myblog{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+    <a href="http://hiralph.github.io/blog{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
     {% if site.truncate %}
     <p>{{ post.content | strip_html | truncate: site.truncate }}</p>
     {% endif%}
