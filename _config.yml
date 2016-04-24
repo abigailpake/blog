@@ -1,16 +1,16 @@
 markdown: rdiscount
 permalink: /:title/
-url: http://hizmz.com
-name: Ralph's web
+url: http://hiralph.github.io/blog/
+name: Ralph的博客
 author: Ralph
 qq: 573149038
-email: hi@hizmz.com
-duoshuo: ralph
-beian: 浙ICP备12026616号
+email: hizmz@sina.com
+duoshuo: hizmz
+beian: 苏ICP备15010390号-3
 cnzz: 119959
-weibo: 助梦者Ralph
+weibo: hizmz
 github: Ralph
 pygments: true
 safe: true
 paginate: 20
-about: "这里是 Ralph 的个人博客，创建于 2004 年。开始使用了 ExBlog 博客程序；之后长期（2004 ~ 2011）使用 Bo-Blog；2012 年更换为 WordProess；2013年7月迁移到 Jekyll @ GitHub。<br /><br />这里包含了部分个人的“折腾”过程、结论和成果，切换到分类模可以更快地找到感兴趣的内容，欢迎观赏、建议、拍砖……"
+about: "这里是 Ralph 的个人博客，创建于 2016 年。"
